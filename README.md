@@ -86,7 +86,7 @@ customer-churn-prediction/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hassan-Ali786/customer-churn-prediction.git
+git clone https://github.com/hassan-ali786/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
