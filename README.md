@@ -60,7 +60,7 @@ This project analyzes telecom customer data to predict churn:
 ```bash
 customer-churn-prediction/
 ├── data/
-│   └── telecom_churn.csv
+│   └── Teleco_Customer_Churn.csv
 ├── notebooks/
 │   └── Customer_Churn_Prediction.ipynb
 ├── requirements.txt
