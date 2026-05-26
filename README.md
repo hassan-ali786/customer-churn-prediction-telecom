@@ -5,6 +5,11 @@ The goal is to identify customers likely to leave the service and help the compa
 
 ---
 
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/9b007b21-7231-4b35-b322-3a3440e6009f" width="100%" controls></video>
+
+---
 ## Project Overview
 
 This project analyzes telecom customer data to predict churn:
