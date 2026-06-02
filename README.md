@@ -119,9 +119,6 @@ jupyter notebook notebooks/Customer_Churn_Prediction.ipynb
 Hassan Ali  
 Data Scientist & ML Engineer  
 
-GitHub: https://github.com/hassan-ali786  
-
----
 
 ## Notes
 
