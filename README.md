@@ -85,8 +85,8 @@ customer-churn-prediction/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hassan-ali786/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/hassan-ali786/customer-churn-prediction-telecom.git
+cd customer-churn-prediction-telecom
 ```
 
 2. Install dependencies:
