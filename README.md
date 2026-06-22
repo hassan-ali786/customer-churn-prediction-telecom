@@ -5,6 +5,11 @@ The goal is to identify customers likely to leave the service and help the compa
 
 ---
 
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/9b007b21-7231-4b35-b322-3a3440e6009f" width="100%" controls></video>
+
+---
 ## Project Overview
 
 This project analyzes telecom customer data to predict churn:
@@ -60,7 +65,7 @@ This project analyzes telecom customer data to predict churn:
 ```bash
 customer-churn-prediction/
 ├── data/
-│   └── telecom_churn.csv
+│   └── Teleco_Customer_Churn.csv
 ├── notebooks/
 │   └── Customer_Churn_Prediction.ipynb
 ├── requirements.txt
@@ -71,13 +76,7 @@ customer-churn-prediction/
 
 ## Tools & Technology Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007D9C?style=flat&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-007D9C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -86,8 +85,8 @@ customer-churn-prediction/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hassan-Ali786/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/hassan-ali786/customer-churn-prediction-telecom.git
+cd customer-churn-prediction-telecom
 ```
 
 2. Install dependencies:
@@ -118,12 +117,4 @@ jupyter notebook notebooks/Customer_Churn_Prediction.ipynb
 ## Author
 
 Hassan Ali  
-Data Scientist and Machine Learning Engineer  
-
-GitHub: https://github.com/hassan-ali786  
-
----
-
-## Notes
-
-⭐ Feel free to fork this repository and explore further improvements!
+Data Scientist & ML Engineer  
